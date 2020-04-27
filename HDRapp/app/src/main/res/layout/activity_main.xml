@@ -33,7 +33,7 @@
         android:id="@+id/imageV"
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/abx"/>
+        android:src="@drawable/aby"/>
 
     <Button
         android:layout_width="wrap_content"
